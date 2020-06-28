@@ -7,6 +7,10 @@ using SampleApp;
 
 
 namespace SampleApp
+
+/**
+ *  Simple class that prints Contact details
+ */
 {
     public class Contact: IContact
     {
