@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace SampleApp
 {
+
+    /**
+     * Interface for Animal
+     */
    public interface IAnimal
     {
         string Name();

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SampleApp
 {
+    // Interface for Contact
   public  interface IContact
     {
         string Name {  get; }
