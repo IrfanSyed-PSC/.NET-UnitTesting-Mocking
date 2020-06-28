@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "ConsoleApp2\SampleApp.csproj", "{DD57D470-5C07-45E2-9405-DFD2AE07674B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{DD57D470-5C07-45E2-9405-DFD2AE07674B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleApp.UnitTest", "NUnitTestProject1\SampleApp.UnitTest.csproj", "{DB72BB03-83D0-4E8F-B9A0-C46EFF255402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleApp.UnitTest", "NUnitTestProject\SampleApp.UnitTest.csproj", "{DB72BB03-83D0-4E8F-B9A0-C46EFF255402}"
 	ProjectSection(ProjectDependencies) = postProject
 		{DD57D470-5C07-45E2-9405-DFD2AE07674B} = {DD57D470-5C07-45E2-9405-DFD2AE07674B}
 	EndProjectSection
